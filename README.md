@@ -8,6 +8,9 @@ I am Khusboo Khator from Kolkata, India. Skilled in Full Stack Development, MERN
 ### 📞 How to reach me?
 Connect with me on <a href="https://www.linkedin.com/in/khusbookhator/">LinkedIn.</a>
 
+### ⚡Fun Fact
+Time, Tide and JavaScript waits for none.
+
 ### 👉🏼 More about me?
 I'm a multipotentialite who enjoys binge watching.
 You can find my work on my <a href=""></a>Portfolio.
