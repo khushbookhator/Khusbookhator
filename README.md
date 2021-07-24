@@ -13,7 +13,7 @@ Time, Tide and JavaScript waits for none.
 
 ### 👉🏼 More about me?
 I'm a multipotentialite who enjoys binge watching.
-You can find my work on my <a href="https://khushbookhator.github.io/portfolio/"></a>Portfolio.
+You can find my work on my <a href="https://khushbookhator.github.io/portfolio/">Portfolio</a>.
 
 ### Languages & Tech
 <img src="https://camo.githubusercontent.com/115ae80d220b004e0c3bfd3829a87b439103c386a321c9d0b8d2faa47e781a2d/68747470733a2f2f7777772e666c617469636f6e2e636f6d2f7376672f7374617469632f69636f6e732f7376672f313231362f313231363733332e737667" width="50px"/> <img src="https://camo.githubusercontent.com/13416174301f7a5805b813f156aeb90249cb5292b8cab2aedb7ea10a6319ed93/68747470733a2f2f7777772e666c617469636f6e2e636f6d2f7376672f7374617469632f69636f6e732f7376672f3733322f3733323139302e737667" width="50px"/>
